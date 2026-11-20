@@ -1,0 +1,6 @@
+{
+  "name": "Люмен Дент — Запись в стоматологию",
+  "description": "Светлое современное приложение для записи к стоматологу с интерактивной картой зубов, выбором удобного времени врача, уведомлениями в Telegram и скрытой панелью руководителя.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
